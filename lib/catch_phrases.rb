@@ -32,7 +32,10 @@ end
 def
   
   toadstool
+<<<<<<< HEAD
   
+=======
+>>>>>>> 82ef3cf59e6e71bfdce33df01af859a77f68fdc3
 
   phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
   
@@ -47,8 +50,12 @@ def
   
   link
 
+<<<<<<< HEAD
 
   phrase = "It's Dangerous To Go Alone! Take This."
+=======
+  phrase = "Don't"
+>>>>>>> 82ef3cf59e6e71bfdce33df01af859a77f68fdc3
   
   puts phrase
 
